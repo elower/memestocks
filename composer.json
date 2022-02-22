@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gabrielfs7/google-trends": "^1.2"
+    }
+}
